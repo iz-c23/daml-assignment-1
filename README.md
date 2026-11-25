@@ -12,16 +12,18 @@ f)   metadata.csv contains one item (a letter) per row
      requirements.txt lists the required software to run the programme
      .gitignore excludes irrelevant files
   
-  Codebook:
-  Variable            Description                                        Type                  Allowed Values/Missing Values
-  ID                  Unique print ID                                    Text, Unique ID       Unique print ID, no missing values
-  Source              Original link to file                              URL                   URLs no missing values
-  Licence             Wording of the licence and permission for reuse    Text                  
-  Sender              Name of the person who sent the letter             Text, catalogue name  Names, blank if missing
-  Recipient           Name of the person who received the letter         Text, catalogue name  Names, blank if missing
-  Date                Date the letter was written                        Integer, YYYY-MM-DD   Year from 1600-1699 with full date if available, blank if missing
-  Sender Location     Location the letter was sent from                  Text, catalogue place Full address, county, city, country or area if available, otherwise blank
-  Receiver Location   Location the letter was received                   Text, catalogue place Full address, county, city, country or area if available, otherwise blank
+  ##Codebook:
+  
+  |Variable|Description|Type|Allowed Values/Missing Values|
+  |---|---|---|---|
+  |ID|Unique print ID|Text, Unique ID|Unique print ID, no missing values|
+  |Source|Original link to file|URL|URLs no missing values|
+  |Licence|Wording of the licence and permission for reuse|Text| |                 
+  |Sender|Name of the person who sent the letter|Text, catalogue name|Names, blank if missing|
+  |Recipient|Name of the person who received the letter|Text, catalogue name|Names, blank if missing|
+  |Date |Date the letter was written|Integer, YYYY-MM-DD|Year from 1600-1699 with full date if available, blank if missing|
+  |Sender Location|Location the letter was sent from|Text, catalogue place|Full address, county, city, country or area if available, otherwise blank|
+  |Receiver Location|Location the letter was received|Text, catalogue place|Full address, county, city, country or area if available, otherwise blank|
 
 g) This dataset represents a selection of letters in English between the years 1600-1699 from Quakers. It can be used, again, for simple counting or location tracing. It does not include the content of the letters or letters which are not digitally archived as part of this catalogue. It should not be used to assume any relationships between individuals or what ideas were shared.
 
