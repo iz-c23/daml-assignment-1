@@ -29,6 +29,7 @@ h&i) On the website it states "All users must respect the intellectual property 
 been accepted for inclusion in Abraham Correspondence, Volume 364 by an authorized administrator of STARS. For
 more information, please contact STARS@ucf.edu.". Access and download is clearly permissible, but since redistribution is not specifically mentioned I chose not to upload my data to a public repository as it seemed slightly unclear. This can be added if you think it is allowed and required. It does not contain any current personal information and not any information that is not publicly accessible and does not threaten any individual with harmful content.
 
-Collins, I. (2026). Quaker correspondence in the Abraham collection [daml-assignment-1]. GitHub. [REPOSITORY URL]
+Collins, I. (2026). Quaker correspondence in the Abraham collection daml-assignment-1. GitHub.(https://github.com/iz-c23/daml-assignment-1/tree/main)
+Licensed under CC BY 4.0
 
   
